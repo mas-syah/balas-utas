@@ -1,0 +1,47 @@
+{
+  "name": "contoh-webinar-s01",
+  "post": "temen temen, ada yang mau diajakin belajar TOPIK_KAMU GRATIS? webinarnya HARI_ACARA tanggal TANGGAL_ACARA, online..\n\nyang berminat reply \"mau\" ya..",
+  "keywords": [
+    "mau",
+    "ikut",
+    "ikutan",
+    "minat",
+    "berminat",
+    "join",
+    "daftar",
+    "link",
+    "gas",
+    "aku",
+    "saya",
+    "boleh",
+    "info",
+    "tertarik",
+    "interested",
+    "🙋",
+    "🙋‍♂️",
+    "🙋‍♀️",
+    "✋",
+    "menarik",
+    "pengen",
+    "mupeng"
+  ],
+  "matchMode": "word",
+  "excludeKeywords": [
+    "gak mau",
+    "ga mau",
+    "nggak mau",
+    "enggak mau",
+    "tidak mau",
+    "gak ikut",
+    "ga ikut",
+    "gak bisa",
+    "ga bisa"
+  ],
+  "replies": [
+    "halo @{{username}}.. untuk daftar webinarnya bisa klik LINK_KAMU ya, kuotanya terbatas 🙏",
+    "makasih udah minat @{{username}}.. daftarnya di LINK_KAMU ya",
+    "@{{username}} ini linknya ya.. LINK_KAMU, segera daftar karena kuota terbatas 🙏",
+    "siap @{{username}}, bisa langsung daftar di LINK_KAMU .. sampai ketemu nanti ya",
+    "@{{username}} boleh banget.. daftar di LINK_KAMU ya, terima kasih 🙏"
+  ]
+}

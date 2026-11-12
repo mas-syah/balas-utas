@@ -1,0 +1,11 @@
+{
+  "name": "balas-utas",
+  "owner": {"name": "mas-syah"},
+  "plugins": [
+    {
+      "name": "balas-utas",
+      "source": "./",
+      "description": "Threads post + auto-reply the link to everyone who comments a keyword, via Zernio."
+    }
+  ]
+}

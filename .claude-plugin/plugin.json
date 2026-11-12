@@ -1,0 +1,8 @@
+{
+  "name": "balas-utas",
+  "version": "0.1.0",
+  "description": "Threads comment-to-link campaigns on Zernio: write short post variations, schedule them, auto-reply the link to everyone who comments \"mau\", check results, reschedule and stop after the event.",
+  "author": {"name": "mas-syah"},
+  "license": "MIT",
+  "keywords": ["threads", "auto-reply", "zernio", "webinar", "social-media"]
+}
